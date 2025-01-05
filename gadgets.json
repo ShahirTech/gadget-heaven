@@ -1,0 +1,263 @@
+[
+    {
+      "product_id": "C1",
+      "product_title": "Dell XPS 13 Laptop",
+      "product_image": "https://961souq.com/cdn/shop/files/DELL-XPS-13-Copilot_-7.jpg",
+      "category": "Computers",
+      "price": 1299.99,
+      "description": "The Dell XPS 13 offers a high-performance laptop experience with a sleek design and impressive battery life.",
+      "specification": [
+        "13.4-inch FHD+ display",
+        "Intel Core i7-1185G7",
+        "16GB RAM",
+        "512GB SSD",
+        "Intel Iris Xe Graphics",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "C2",
+      "product_title": "Apple MacBook Air M2",
+      "product_image": "https://assets.gadgetandgear.com/upload/media/macbook-air-13-inch-m3-chip-8gb-256gb-silver.jpeg",
+      "category": "Computers",
+      "price": 1499.99,
+      "description": "The MacBook Air M2 delivers exceptional performance with the new Apple Silicon chip and a stunning Retina display.",
+      "specification": [
+        "13.6-inch Retina display",
+        "Apple M2 chip",
+        "8GB RAM",
+        "256GB SSD",
+        "Battery life up to 18 hours",
+        "macOS Ventura"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "C3",
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://lastbestprice.com/wp-content/uploads/2024/06/ThinkPad-L13-2-in-1-Gen5.png",
+      "category": "Computers",
+      "price": 1899.00,
+      "description": "The ThinkPad X1 Carbon combines business-grade security features with cutting-edge performance and a premium build.",
+      "specification": [
+        "14-inch 4K display",
+        "Intel Core i7-1265U",
+        "16GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce MX450",
+        "Windows 11 Pro"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": "C4",
+      "product_title": "HP Spectre x360 14",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/HP-Spectre-x360-Convertible-14-EF2013DX-a-1801.jpg",
+      "category": "Computers",
+      "price": 1699.00,
+      "description": "A convertible laptop with a 360-degree hinge, powerful specs, and a beautiful OLED touchscreen display.",
+      "specification": [
+        "13.5-inch OLED touchscreen",
+        "Intel Core i7-1165G7",
+        "16GB RAM",
+        "512GB SSD",
+        "Intel Iris Xe Graphics",
+        "Windows 11"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": "C5",
+      "product_title": "Asus ROG Zephyrus G14",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-ROG-Zephyrus-G14-in-BD-18.jpg",
+      "category": "Computers",
+      "price": 1599.00,
+      "description": "The Zephyrus G14 is a gaming laptop offering incredible performance and portability with AMD Ryzen 9 processor.",
+      "specification": [
+        "14-inch Full HD display",
+        "AMD Ryzen 9 6900HS",
+        "16GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce RTX 3060",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "C6",
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://metacredt.com/wp-content/uploads/2024/06/1-24.jpg",
+      "category": "Computers",
+      "price": 1199.99,
+      "description": "Surface Laptop 4 offers a great combination of performance, battery life, and a beautiful PixelSense display.",
+      "specification": [
+        "13.5-inch PixelSense display",
+        "Intel Core i7-1165G7",
+        "16GB RAM",
+        "512GB SSD",
+        "Intel Iris Xe Graphics",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    
+    {
+      "product_id": "P1",
+      "product_title": "iPhone 15 Pro",
+      "product_image": "https://compasia.com.ph/cdn/shop/files/iphone-15-pro-max-759172_600x600_crop_center.png?v=1717653225",
+      "category": "Phones",
+      "price": 1099.00,
+      "description": "The iPhone 15 Pro comes with Apple's latest A17 chip, a stunning OLED display, and an upgraded camera system.",
+      "specification": [
+        "6.1-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "128GB storage",
+        "Triple 48MP camera system",
+        "5G capable",
+        "iOS 17"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    
+    {
+      "product_id": "P2",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://mobilegoo.shop/cdn/shop/files/Untitleddesign_87_4cdec056-7f1b-4265-ac9a-fb2d5428a067.png",
+      "category": "Phones",
+      "price": 1299.99,
+      "description": "The Samsung Galaxy S23 Ultra offers a dynamic AMOLED display, powerful Snapdragon 8 Gen 2, and an impressive 200MP camera.",
+      "specification": [
+        "6.8-inch Dynamic AMOLED display",
+        "Snapdragon 8 Gen 2",
+        "256GB storage",
+        "Quad 200MP camera system",
+        "5000mAh battery",
+        "One UI 6"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    
+    {
+      "product_id": "SW1",
+      "product_title": "Apple Watch Series 9",
+      "product_image": "https://my-apple.com.ua/image/catalog/products/watch/se-2-2022/midnight-1.png",
+      "category": "Smart Watches",
+      "price": 399.00,
+      "description": "The Apple Watch Series 9 combines health tracking with smart features and a beautiful Always-On Retina display.",
+      "specification": [
+        "1.9-inch Retina display",
+        "S9 chip",
+        "Blood Oxygen and ECG monitoring",
+        "32GB storage",
+        "Water-resistant up to 50 meters",
+        "watchOS 10"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    
+    {
+      "product_id": "SW2",
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Watch6-Gold-5232.jpg",
+      "category": "Smart Watches",
+      "price": 349.99,
+      "description": "The Galaxy Watch 6 offers advanced health monitoring, a long-lasting battery, and a sleek design.",
+      "specification": [
+        "1.5-inch Super AMOLED display",
+        "Exynos W920 chipset",
+        "Advanced heart rate and blood pressure monitoring",
+        "Samsung Health integration",
+        "5ATM water resistance",
+        "Wear OS powered by Samsung"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    
+    {
+      "product_id": "CB1",
+      "product_title": "Anker PowerPort PD 2",
+      "product_image": "https://unixnetworkbd.com/image/cache/catalog/Anker-PowerPort-PD-2-USB-C-Wall-Charger-LED-Indicator-A2626KD1-500x500.jpg.webp",
+      "category": "Chargers",
+      "price": 59.99,
+      "description": "Anker PowerPort PD 2 offers fast charging with two USB-C ports, ideal for charging smartphones and laptops.",
+      "specification": [
+        "Power Delivery 3.0",
+        "2 USB-C ports",
+        "60W total output",
+        "Compact design",
+        "Over-voltage protection",
+        "Compatible with USB-C devices"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    
+    {
+      "product_id": "CB2",
+      "product_title": "RAVPower 60W USB-C Charger",
+      "product_image": "https://i5.walmartimages.com/seo/60W-12A-6-Port-Desktop-Charger-Black_51af6eea-57c1-43b6-958a-54b034aebf0e.7a88ab6b4e08e8d973fcd727dc1196ea.jpeg",
+      "category": "Chargers",
+      "price": 69.99,
+      "description": "RAVPower USB-C charger delivers high-speed charging with a total output of 60W, perfect for laptops and other devices.",
+      "specification": [
+        "Power Delivery 3.0",
+        "1 USB-C port",
+        "60W output",
+        "Compact and portable",
+        "Overheating protection",
+        "Universal compatibility"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    
+    {
+      "product_id": "PB1",
+      "product_title": "Anker PowerCore 10000mAh",
+      "product_image": "https://kenzcart.com/wp-content/uploads/2023/01/1B07W8DXZTB-700x700.webp",
+      "category": "Power Banks",
+      "price": 59.99,
+      "description": "The Anker PowerCore is a high-capacity power bank that offers fast charging and portability for your devices.",
+      "specification": [
+        "10,000mAh capacity",
+        "PowerIQ and VoltageBoost technology",
+        "Dual USB-A ports",
+        "Compact and lightweight",
+        "Overcharge protection",
+        "Compatible with most devices"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    
+    {
+      "product_id": "PB2",
+      "product_title": "RAVPower 26800mAh",
+      "product_image": "https://www.ravpower.com/cdn/shop/products/rp-pb41-rd_800x.jpg?v=1574068057",
+      "category": "Power Banks",
+      "price": 89.99,
+      "description": "RAVPower's 26800mAh power bank provides ultra-high capacity and fast charging for multiple devices on the go.",
+      "specification": [
+        "26,800mAh capacity",
+        "3 USB ports",
+        "Power Delivery support",
+        "Quick Charge 3.0",
+        "LED indicator",
+        "Smart IC technology"
+      ],
+      "availability": false,
+      "rating": 4.7
+    }
+  ]
+  
