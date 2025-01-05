@@ -7,7 +7,7 @@ const Gadgets = () => {
   const [selectedCategory, setSelectedCategory] = useState("All Products");
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}gadgets.json`)
+    fetch("/gadgets.json")
       .then((res) => res.json())
       .then((data) => setGadgets(data));
   }, []);
