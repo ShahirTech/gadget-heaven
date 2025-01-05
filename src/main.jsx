@@ -28,7 +28,7 @@ const router = createBrowserRouter([
       {
         path: "/productdetails/:id",
         element:<ProductDetails></ProductDetails>,
-        loader: ()=>fetch('/gadgets.json'),
+        loader: ()=>fetch(`${import.meta.env.BASE_URL}gadgets.json`),
       },
       {
         path: "/dashboard",
@@ -66,5 +66,6 @@ const router = createBrowserRouter([
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <RouterProvider router={router} />
+    <Root basename={import.meta.env.BASE_URL} />
   </StrictMode>,
 )
